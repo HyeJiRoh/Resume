@@ -55,14 +55,14 @@
 
      
 <h2>📄 Publications - SCIE</h2>
-<p><b>
-1. Hyeji Roh, Sheungmin Oh, Hajun Song, Jinseo Han, Sangsoon Lim, Deep Learning-based Wireless Signal Classification in the IoT Environment, CMC-Computers, Materials & Continua, 2022, 71(3), 5717–5732. doi: 10.32604/cmc.2022.024135</b>
+<p>
+1. Hyeji Roh, Sheungmin Oh, Hajun Song, Jinseo Han, Sangsoon Lim, <b>Deep Learning-based Wireless Signal Classification in the IoT Environment</b>, CMC-Computers, Materials & Continua, 2022, 71(3), 5717–5732. doi: 10.32604/cmc.2022.024135
 
 : 본 논문은 CNN(Convolution Neural Network)을 통해 정해진 크기의 입력값을 기반으로 정해진 크기의 출력값을 도출하고, LSTM(Long Short Term Memory)의 3개의 gate를 통해 가중치를 두어 계산하여 RNN(Recurrent Neural Network)의 장기 의존성 문제를 완화하여 무선 신호에 대한 중요한 정보만을 기억하도록 설계하였으며, 최종적으로 Attention Mechanism을 통해 매 시점에 무선 신호 분류에 대한 중요한 영향을 미치는 부분만을 선택적으로 학습할 수 있도록 설계한 시스템을 다룸. 
 <br/><br/>
 </p>
-<p><b>
-2. Hyeji Roh, Seulgi Shin, Jinseo Han, Sangsoon Lim, A deep learning-based medication behavior monitoring system, Mathematical Biosciences and Engineering, 2021, 18(2): 1513-1528. doi: 10.3934/mbe.2021078</b>
+<p>
+2. Hyeji Roh, Seulgi Shin, Jinseo Han, Sangsoon Lim, <b>A deep learning-based medication behavior monitoring system, Mathematical Biosciences and Engineering</b>, 2021, 18(2): 1513-1528. doi: 10.3934/mbe.2021078
 
 : 본 논문은 OpenPose를 통해 사람의 행동을 인식하여 알약 복용 여부를 파악하는 시스템을 직접 설계하고 실험에 대한 결과를 다룸. Dispenser를 직접 설계하여 하루 단위로 알약을 제공하고, 사람의 움직임을 통해 카메라를 작동시켜 사용자의 동작을 인식하여 물 마시는 행위를 기반으로 알약 복용 정보를 저장함. 해당 시스템을 통해 알약 복용 여부 관리가 어려운 노인과 환자들의 불편함을 해소하기 위해 설계하였음.
 <br/><br/><br/>

@@ -8,24 +8,30 @@
 
 <br>
 <h2>💻  Skills</h2>
-<h3><b>Backend</b></h3>
-
-아마존 서비스 기반의 Data Warehouse를 구축할 수 있고, 데이터를 추출해낼 수 있으며, 추천 검색어 api를 개발할 수 있는 정도의 skill을 보유하고 있습니다.
-
-- Amazon AWS
-- MySQL
-- PostgreSQL
-- Python
-- Java
-
-<h3><b>Frontend</b></h3>
+<h3><b>[Frontend]</b></h3>
 
 일반적인 웹 페이지를 구성하고 유지보수할 수 있는 정도의 skill을 보유하고 있습니다.
 
-- JavaScript
 - React
+- JavaScript
 
-<h3>ETC</h3>
+</br>
+<h3><b>[Backend]</b></h3>
+
+아마존 서비스 기반의 Data Warehouse를 구축할 수 있고, 데이터를 추출해낼 수 있으며, 추천 검색어 api를 개발할 수 있는 정도의 skill을 보유하고 있습니다.
+
+- Python
+- Java
+
+</br>
+<h3><b>[Database]</b></h3>
+
+- MySQL
+- PostgreSQL
+- Amazon AWS
+
+</br>
+<h3>[ETC]</h3>
 
 개발 기술 외의 기타(배포 및 협업) 툴은 아래와 같이 사용해본 경험이 있습니다.
 

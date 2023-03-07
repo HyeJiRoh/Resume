@@ -12,8 +12,11 @@
 
 일반적인 웹 페이지를 구성하고 유지보수할 수 있는 정도의 skill을 보유하고 있습니다.
 
-- React
+- HTML
+- CSS
 - JavaScript
+- React
+
 
 </br>
 <h3><b>[Backend]</b></h3>
@@ -22,6 +25,7 @@
 
 - Python
 - Java
+- Spring
 
 </br>
 <h3><b>[Database]</b></h3>

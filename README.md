@@ -8,17 +8,6 @@
 
 <br>
 <h2>💻  Skills</h2>
-<h3><b>[Frontend]</b></h3>
-
-일반적인 웹 페이지를 구성하고 유지보수할 수 있는 정도의 skill을 보유하고 있습니다.
-
-- HTML
-- CSS
-- JavaScript
-- React
-
-
-</br>
 <h3><b>[Backend]</b></h3>
 
 아마존 서비스 기반의 Data Warehouse를 구축할 수 있고, 데이터를 추출해낼 수 있으며, 추천 검색어 api를 개발할 수 있는 정도의 skill을 보유하고 있습니다.
@@ -53,6 +42,16 @@
 - 추천검색어 api 개발 
 
 - 사내 Data Warehouse 구축 
+
+
+<br>
+<h4>성결대학교 Lab(2018~2021)</h4>
+
+- 임베디드 시스템 연구
+
+- 딥러닝 기반의 네트워크 시스템 연구 
+
+- IoT 시스템 연구
 
 
 <br>

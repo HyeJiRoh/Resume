@@ -4,7 +4,6 @@
 <p>Name : 노혜지</p>
 <p>E-mail : shgpwl509@naver.com</p>
 <p>GitHub : https://github.com/HyeJiRoh</p>
-<p>Blog : https://spero-spera.tistory.com</p>
 
 <br>
 <h2>💻  Skills</h2>

@@ -58,7 +58,7 @@ AWS 기반의 Data Warehouse를 구축할 수 있고, 데이터를 추출해낼 
 
 <h2>🎓 Education</h2>
 
-- B.S., Computer Engineering, Sungkyul University, Korea, Feb.2021 (Summa Cum Laude - GPA 4.46/4.5)
+- B.S., Computer Engineering, Sungkyul University, Korea, Feb.2021 <b>(Summa Cum Laude - GPA 4.46/4.5)</b>
 
 <br>
 

@@ -9,18 +9,19 @@
 <h2>💻  Skills</h2>
 <h3><b>[Backend]</b></h3>
 
-아마존 서비스 기반의 Data Warehouse를 구축할 수 있고, 데이터를 추출해낼 수 있으며, 추천 검색어 api를 개발할 수 있는 정도의 skill을 보유하고 있습니다.
+AWS 기반의 Data Warehouse를 구축할 수 있고, 데이터를 추출해낼 수 있으며, 추천 검색어 api를 개발할 수 있는 정도의 skill을 보유하고 있습니다.
 
 - Python
 - Java
+- Kotlin
 - Spring
 
 </br>
 <h3><b>[Database]</b></h3>
 
-- MySQL
 - PostgreSQL
 - Amazon AWS
+- MySQL
 
 </br>
 <h3>[ETC]</h3>
@@ -57,7 +58,7 @@
 
 <h2>🎓 Education</h2>
 
-- B.S., Computer Engineering, Sungkyul University, Korea, Feb.2021 (Summa Cum Laude)
+- B.S., Computer Engineering, Sungkyul University, Korea, Feb.2021 (Summa Cum Laude - GPA 4.46/4.5)
 
 <br>
 

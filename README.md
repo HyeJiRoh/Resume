@@ -9,19 +9,19 @@
 <h2>💻  Skills</h2>
 <h3><b>[Backend]</b></h3>
 
-AWS 기반의 Data Warehouse를 구축할 수 있고, 데이터를 추출해낼 수 있으며, 추천 검색어 api를 개발할 수 있는 정도의 skill을 보유하고 있습니다.
+AWS 기반의 Data Warehouse를 구축할 수 있고, 데이터를 추출해낼 수 있으며, Java/Spring 기반의 RESTful api를 개발할 수 있는 정도의 skill을 보유하고 있습니다.
 
-- Python
 - Java
-- Kotlin
 - Spring
+- Kotlin
+- Python
 
 </br>
 <h3><b>[Database]</b></h3>
 
 - PostgreSQL
-- Amazon AWS
 - MySQL
+- Amazon AWS
 
 </br>
 <h3>[ETC]</h3>
@@ -37,11 +37,11 @@ AWS 기반의 Data Warehouse를 구축할 수 있고, 데이터를 추출해낼 
 <h2>🏢 Career</h2>
 <h4>funNC (2021~2022)</h4>
 
-- React 웹 개발
+- React 웹 유지보수 및 개편 작업
 
-- 추천검색어 api 개발 
+- RESTful api 개발 
 
-- 사내 Data Warehouse 구축 
+- 사내 Data Warehouse 구축
 
 
 <br>

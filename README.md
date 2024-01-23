@@ -28,8 +28,8 @@ AWS 기반의 Data Warehouse를 구축할 수 있고, 데이터를 추출해낼 
 
 개발 기술 외의 기타(배포 및 협업) 툴은 아래와 같이 사용해본 경험이 있습니다.
 
-- 커뮤니케이션 및 소스코드 관리 : Slack, Github, Jira 
-- 배포 : GitHub Actions
+- 커뮤니케이션 및 소스코드 관리 : Slack, Github, Jira/Confluence
+- 배포 : GitHub Actions, Docker
 - 디자이너와의 협업 : Figma
 
 <br>
